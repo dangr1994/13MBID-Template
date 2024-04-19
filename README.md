@@ -8,7 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
-
+Inicio de la Actividad Practica I: 10/Abril/2024
 Alumno: Daniel Josué García Flores
 
 ## Descripción del contenido
